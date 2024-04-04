@@ -1,0 +1,5 @@
+bool face_detected
+bool keyword_detected
+bool person_ready
+bool session_ended
+custom_msgs/person person_which_interact

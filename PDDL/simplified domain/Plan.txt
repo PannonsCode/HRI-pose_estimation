@@ -1,0 +1,7 @@
+(wait p)
+(detect_person p)
+(identify_person p)
+(start_session p)
+(run_level l1)
+(run_level l2)
+(end_session p)
