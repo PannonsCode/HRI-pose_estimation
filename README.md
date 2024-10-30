@@ -15,5 +15,5 @@ This repository contains:
 - 'launch_application.py' which lauch all the ros nodes implemented for the execution of the task. Morevore it allow to the nodes to restart when the task is completed.
 
 -  The file 'report.pdf' contains all the resume on the work done.
--  
+  
 - At the link [https://youtu.be/h43wUQIjOj4?si=9pjG6-3qI83sy1zq] you can see a demo of operation.
